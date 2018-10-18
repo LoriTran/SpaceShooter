@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "4ee1c23e-0896-4067-93fc-2f5db250dedc",
+            "Value": {
+                "id": "b7e6d657-3bd2-400e-b849-da8dee6d8d1c",
+                "resourcePath": "objects\\obj_score\\obj_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4ff7ae4e-022f-4420-bf46-420a6576f842",
             "Value": {
                 "id": "67d4bb38-289b-4258-a1d2-4f6490854268",
@@ -119,10 +127,26 @@
             }
         },
         {
+            "Key": "504fbd06-f665-434f-a50d-21d1e2cc27cf",
+            "Value": {
+                "id": "03405814-1736-47ed-85cf-42b4df6ae110",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "52ce0bfa-eef9-4e7b-9d45-8b8ead53ca89",
             "Value": {
                 "id": "03fedf54-9d4f-4512-b98e-15d22c09f046",
                 "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e9586e4-fa78-4d3d-af54-b2da349cb7d3",
+            "Value": {
+                "id": "e6eee1ae-3b1e-454e-b879-3ae1d8df6477",
+                "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "7c6b046e-27f6-4636-8bb9-c066830c98b2",
+            "Value": {
+                "id": "76ff3fdf-e830-4f44-a00f-a37c69c989e2",
+                "resourcePath": "objects\\obj_asteroid_mini\\obj_asteroid_mini.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a51987ed-35d1-4d92-87c6-228cdd2fc9d2",
             "Value": {
                 "id": "487f6ca9-851a-4167-a7a5-39c5d487b407",
@@ -172,6 +204,14 @@
                 "id": "5ea1d3b9-37ff-442d-8efa-dbca6af8c42c",
                 "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "bf4bfa4e-02ff-467e-a6bf-7549cd398203",
+            "Value": {
+                "id": "6c2786f2-2a3f-4af8-a94f-820ef2c6d9a1",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -196,6 +236,14 @@
                 "id": "670efda1-2046-4d4b-aea3-84ec484394ff",
                 "resourcePath": "views\\d10b5ccc-9713-436f-970b-b623e9c46f04.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d68c67a1-58a4-4ae0-900e-11f98dd8b381",
+            "Value": {
+                "id": "6f5ee673-ab04-497d-afe4-ca1401d81b28",
+                "resourcePath": "sprites\\spr_asteroid_mini\\spr_asteroid_mini.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
