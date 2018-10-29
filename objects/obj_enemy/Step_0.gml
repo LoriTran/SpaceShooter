@@ -40,4 +40,13 @@ if(hp <= 0)
 	/// @DnDHash : 2D77D59E
 	/// @DnDParent : 0B7A46DF
 	instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+	/// @DnDVersion : 1
+	/// @DnDHash : 33B7F044
+	/// @DnDParent : 0B7A46DF
+	/// @DnDArgument : "score" "50"
+	/// @DnDArgument : "score_relative" "1"
+	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+	__dnd_score += real(50);
 }
