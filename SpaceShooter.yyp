@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "125ab8ef-6efb-4eaa-9ed8-8b6c8c1b1a10",
+            "Value": {
+                "id": "c9681b20-9682-4592-a0cb-959f27e68ad5",
+                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2660a8a8-1e1d-486f-912e-ada5e7e96048",
             "Value": {
                 "id": "d286d36d-8037-46f4-8816-7a46482a7dfa",
@@ -191,6 +199,22 @@
             }
         },
         {
+            "Key": "9b63fc6d-394d-4e24-a0be-2c5f388c3baf",
+            "Value": {
+                "id": "05737593-ec2c-4d22-8a3b-7c4007d8f446",
+                "resourcePath": "rooms\\rm_end_game\\rm_end_game.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9e1edc17-adee-4c4f-88a3-c130db9e88a6",
+            "Value": {
+                "id": "c32d8dc3-f718-43a6-a5ab-07b601452124",
+                "resourcePath": "sprites\\spr_life\\spr_life.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a51987ed-35d1-4d92-87c6-228cdd2fc9d2",
             "Value": {
                 "id": "487f6ca9-851a-4167-a7a5-39c5d487b407",
@@ -228,6 +252,14 @@
                 "id": "bb142a1b-4b5c-48bd-9aa2-4fb12275a28c",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0d68cc5-9d18-43dd-9f05-3d088aafa562",
+            "Value": {
+                "id": "6b1052f2-c6e0-4f6b-a9e8-2cc1c699bb9c",
+                "resourcePath": "sprites\\spr_gameover\\spr_gameover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
