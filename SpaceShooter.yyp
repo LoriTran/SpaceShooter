@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "3480492b-8a5e-4248-8536-7cb766b51284",
+            "Value": {
+                "id": "3e11adb7-87b5-4e9f-b432-6325a5ba9365",
+                "resourcePath": "sprites\\spr_end_background\\spr_end_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "367eae63-6255-4f0c-ab48-a4b0b3a25eae",
             "Value": {
                 "id": "6822b7a9-dde8-4922-a0a5-91112656133a",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "b1914107-e311-49d2-9583-bfc8a794cfff",
+            "Value": {
+                "id": "cb1fab31-4be1-42cd-88db-3b64dfb09c02",
+                "resourcePath": "sprites\\spr_gameover\\spr_gameover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b5feeb56-09b9-44c3-8516-5f9f53de3ba7",
             "Value": {
                 "id": "5ea1d3b9-37ff-442d-8efa-dbca6af8c42c",
@@ -252,14 +268,6 @@
                 "id": "bb142a1b-4b5c-48bd-9aa2-4fb12275a28c",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "d0d68cc5-9d18-43dd-9f05-3d088aafa562",
-            "Value": {
-                "id": "6b1052f2-c6e0-4f6b-a9e8-2cc1c699bb9c",
-                "resourcePath": "sprites\\spr_gameover\\spr_gameover.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
